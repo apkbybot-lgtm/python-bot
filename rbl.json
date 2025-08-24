@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "rbl-server-1",
+  "private_key_id": "f42f85008a4e098962832370d97aee6494960e9b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3xv0d5cW7DM27\nXzDQ4B+4WbkxwL/uUJVP+ztm2nQPCIpWEpZeSfKszhj6a7fBYlbEdKsIJJoiEOcE\n7zrF1myysJeCxblmZKUgkKVvT00fBcLNbRMEaz7W/IywFlEbT5Lvoj9OkmJmlU+f\nyKamwZ+B8Iut/Tl8/RbAmtCkJqcehAZdl1mC4RvfbH+Uh6J3KQ3mDRUe796yuWK4\nzHCPG6unr0t2lM6eSzSvIY2snwYqcjlVAnAQ6dCZmK6/qU99q7McR1d4aN9sxZBz\nJe4AnmgoW7cI/qoi7MNvJu1pcFOSWFU75aG3vti90S0OKr5lQFJmSpc176nTQ8dB\nxh4ZwevBAgMBAAECggEAASQZ153HS84cchcStgR8ne5Mrih/6JDIHiS1emhNafeu\nTpkZ8hofPBk7FXiMV2wiLsd5dZKVZ5qKqXPhl292SE7vxq7Hymd1Xc2xtHTqsF0e\nsWjSdYFDwbdasw/7m+6zPyXXCWImSaddEbH/7hW4q4IpukBR7/RtHjzRbwHgbfOQ\nMPSIqn7wW1EsNIauwJzGafz+wfGQTER1T7+QwAa9RaZ92mTqA52sTsA2W4qbkAAv\nJptZhkar5yzPxVbwdPqnKbO6PHS+iG/FNEFXxHI5H6kygx+Tf/YgAGSXr57gEsXu\niz7H6lFDK3KYxCQtzKRZv0sIbWOlA9nC5zHISkoE2QKBgQDtq94q8H2N2L6KoyII\nvgoxRIRWxuOnE4PEiepAyGaVmJdaFWvAZaEnC6AN39kzV9jCaLxEPAZfdc1eEvi2\nhZ/UsjMhDTltnQnRoyr2eY2XWYP3mllh8MVmX9spmx1a3iHekV+FSp5TxvfGpCPr\n9a2InL8KoNd3H0f/ETh38eWw/QKBgQDF8yOOr9R0IgdoVE52HdRqx0b4AymSg54R\n0Pdjz9YuKWorlabhN+rXM9HWBatlmPCx4TNnJNsGSAYcjIi2NnOWuEm6nOZ4bfY6\n/XAprXMbf25h7Y1MApMYyTZzNDUXQAGKn+AqtX41HoGwMG5qvT3cMZ5ZCpLxJiAt\nAcD/QsgzFQKBgET1U+2zf0pTs903vd05fm2TCq6+4DiOwfGZbl1Dh/gpoOhjRLM7\nCYnxpovAAh4Sg/LMPquxmsvBu0drS7xxgtFMrucNFjeGk92+cO24kOtz7oU9xGdV\nW4D7mPQ2bEr8HmmcVlGvN8bo+OUqpL2Gt8XmbMuhpUKL0fDgxziN9+3lAoGBALv+\nkxlzMeFtY/2Ye7+/yrnyMhte3X+RUnD3NcxsWawTlwp3oTqp4XWqeDG7xrDBlG5L\nQ4dEwGJxyqQYb8olYpeUxCjf1B4xyLTzdy+N1BEccBe/BP9YPp0+k2DMB1PibNRb\nzAijv43xQBe1l1f2DCbwVMOZwD4YCFzWGpYStZGVAoGAOrDPkFsbY9cAG5KXFNm7\n+VKwGRh5Ym7c7SkvMaJQnPq9NMoOvgA1ctKbBynB6KPFIz6IAtezPbUbC/nLX2Wg\nrNnYvBo7qSIg+l240k/e151wQj/g7THahBLAmSfKj3+kNZRJoHHC2dg63/N+b6WK\nD9UA96OJytkjuRq1riQv670=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@rbl-server-1.iam.gserviceaccount.com",
+  "client_id": "100714261992829404263",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "databaseURL": "https://rbl-server-1-default-rtdb.europe-west1.firebasedatabase.app/",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40rbl-server-1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
